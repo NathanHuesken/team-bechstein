@@ -1,3 +1,5 @@
 = Wall-E
 
 == Characters
+
+include::characters/wall-e.adoc[leveloffset=2]
