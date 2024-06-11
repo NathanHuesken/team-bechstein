@@ -3,3 +3,7 @@
 == Characters
 
 include::characters/wall-e.adoc[leveloffset=2]
+
+== Chapters
+
+include::chapters/chapter1.adoc[leveloffset=2]
