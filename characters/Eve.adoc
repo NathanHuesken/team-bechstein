@@ -1,0 +1,2 @@
+== Eve
+EVE is an advanced search robot that looks for signs of plant life on Earth.
